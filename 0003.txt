@@ -2,7 +2,7 @@ test2
 
 git flow test 新增
 
-
+git flow release 测试第一个发布版本
 
 
 
